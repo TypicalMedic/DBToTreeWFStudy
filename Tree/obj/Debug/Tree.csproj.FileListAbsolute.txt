@@ -1,0 +1,14 @@
+C:\Users\Marusya\source\repos\Tree\bin\Debug\Tree.exe.config
+C:\Users\Marusya\source\repos\Tree\bin\Debug\Tree.exe
+C:\Users\Marusya\source\repos\Tree\bin\Debug\Tree.pdb
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.Form1.resources
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.Properties.Resources.resources
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.exe
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.pdb
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.pic.resources
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.Deletion.resources
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.Rest.resources
+C:\Users\Marusya\source\repos\Tree\obj\Debug\Tree.Expo.resources
